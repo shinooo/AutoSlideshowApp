@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoSlideshowApp</string>
+    <string name="BUTTON_TEXT_NEXT">進む</string>
+</resources>
